@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sharath P
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning react.js and Python.
+- 🌱 I’m currently learning react.js, Python, Django and MySQL.
 - 📫 Reach me at +91 9620832482 or sharathpbhaath@gmail.com.
 
 <!---
